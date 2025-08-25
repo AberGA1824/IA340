@@ -1,5 +1,6 @@
 # IA 340 Python Code
 
+![Image](https://cmn-cdn-001.sagepub.com/books/titles/274957/cov_sb1_125192.jpg)
 This is my [IA 340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336&print) project.
 
 ## course desctiption
